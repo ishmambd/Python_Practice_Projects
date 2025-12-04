@@ -12,6 +12,10 @@ This repository contains small Python projects created while learning Python bas
 ## 📁 Included Files
 - Shipping.py
 - magic8ball.py
+- chatbot.py
+- convert_engineering_units.py
+- rock_paper_scissors.py
+- to_do_list.py
 
 ## ▶️ How to Run
 python filename.py
